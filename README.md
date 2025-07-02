@@ -80,16 +80,6 @@ Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 
 ---
 
-## 💬 My Development Philosophy
-
-> 🧼 Clean code is not optional.  
-> 🧠 Scalability > Shortcut.  
-> 🤝 Great products come from collaboration.  
-> 🔄 Always test before you rest.  
-> 🚀 Launch fast, improve faster.
-
----
-
 ## 🧩 I Can Help With:
 
 - MERN stack applications from scratch
@@ -98,24 +88,6 @@ Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 - RESTful API design
 - Basic DevOps (Docker, Git workflows)
 - Building from messy to modular
-
----
-
-## 🎯 My Goals
-
-- 🌍 Contribute to open-source MERN and Next.js projects
-- 💼 Land a top tech internship by 2026
-- 🚀 Build a SaaS product that automates real-world workflows
-- 📊 Launch a portfolio with blog + dashboard + real-time analytics
-
----
-
-## 🕹 Fun Facts
-
-- 🎮 Gamer when not coding — especially FIFA & Valorant
-- 🎧 I code better with Lo-Fi beats and a good cup of chai ☕
-- 🧠 DSA lover — I enjoy solving LeetCode questions during breaks
-- 💡 I often get ideas at 2AM and actually build them 😄
 
 ---
 
