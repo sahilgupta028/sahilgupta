@@ -121,13 +121,11 @@ Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 
 ## 📬 Connect With Me
 
-<p>
-  📧 [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com) <br/>
-  🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/) <br/>
-  💻 [GitHub](https://www.github.com/sahilgupta028) <br/>
-  🌐 [Portfolio](https://portfolio-sahil028.vercel.app/) <br/>
+  📧 [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com) <br />
+  🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/) <br />
+  💻 [GitHub](https://www.github.com/sahilgupta028) <br />
+  🌐 [Portfolio](https://portfolio-sahil028.vercel.app/) <br />
   🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
-</p>
 
 ---
 
