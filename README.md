@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Sahil Gupta</h1>
 
 <p align="center">
-  <b>Full-Stack Developer | Problem Solver | Tech Enthusiast</b><br/>
-  Passionate about building scalable web applications and AI-powered solutions that create real-world impact.
+  <b>Full-Stack Developer | MERN Stack | AI + Web Enthusiast</b><br/>
+  I build powerful web applications that are functional, fast, and scalable.
 </p>
 
 ---
@@ -10,109 +10,129 @@
 ## 🧠 About Me
 
 - 🎓 **B.Tech CSE** @ JSS Academy of Technical Education, Noida (2022–2026)
-- 🛠️ **Specialized in:** Full-Stack Web Development (MERN)
-- 📚 **Currently Learning:** Next.js | TypeScript | Cloud Basics | System Design
-- 👨‍💻 **Open to:** Internships, Collaborations, and Open-Source Projects
+- 💡 **Interest Areas:** Full-stack development, AI integration, and system design
+- 📚 **Currently Exploring:** Next.js 14 App Router, Redis, System Design Patterns
+- 👨‍💻 **Experience:** Frontend, Full-stack & Internship experience with real-world projects
+- 🧪 Loves experimenting with performance techniques and clean architecture
 
 ---
 
 ## 💼 Experience
 
-### 👨‍💻 SDE Intern – Code Inbound LLP (Mar 2025 – Present)
-- Built responsive, scalable UIs with **React.js** & **Next.js**
-- Implemented RESTful APIs & improved app performance through effective **state management**
+### 💻 SDE Intern – Code Inbound LLP *(Mar 2025 – Present)*
+- Built scalable, SEO-optimized applications using **Next.js**
+- Enhanced UX using advanced **state management** and **API integration**
 
-### 🎨 Frontend Developer – Uniwave (Aug – Oct 2024)
-- Created dynamic and SEO-friendly pages using **Next.js SSR/SSG**
-- Received a **Letter of Recommendation (LOR)** for UI excellence
+### 🎨 Frontend Developer – Uniwave *(Aug – Oct 2024)*
+- Improved performance using **SSR & SSG**
+- Received **LOR** for frontend contribution
 
-### 🌐 Full Stack Developer – SkilledUp Intelligence (Apr – May 2024)
-- Developed performant, responsive interfaces & integrated backend APIs
-- Optimized cross-browser compatibility & performance
-
----
-
-## 🚀 Projects
-
-### 🏥 Hospital Management System
-`Next.js • TypeScript • MongoDB • Python`
-- AI-powered chatbot with **symptom analysis** using NLP  
-- Real-time doctor matching, scheduling, and **geolocation-based routing**
-
-### 🧾 Smart Attendance System
-`React • MongoDB • Face Recognition • Python`
-- Fraud-proof AI-based attendance via **face authentication**
-- Includes visual analytics, chatbot, and dynamic PDF report generation
+### 🌐 Full Stack Developer – SkilledUp Intelligence *(Apr – May 2024)*
+- Built cross-browser-compatible interfaces with **Next.js** and **Express.js**
+- Improved load time and responsiveness across major browsers
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
-### 💻 Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-blue?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-blue?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
+### 🏥 [Hospital Management System](#)
+> AI-powered hospital interface with NLP-based symptom analysis, real-time doctor matching, and ML disease prediction.  
+Tech: `Next.js`, `Python`, `MongoDB`, `Express`
 
-### 🧩 Frameworks & Libraries
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shadcn--UI-000000?style=flat"/>
-</p>
+### 🧾 [Smart Attendance System](#)
+> Face-recognition and chatbot-powered attendance tracker with interactive charts and PDF reports.  
+Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 
-### 🗃️ Databases & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-</p>
-
-### 🧰 DevOps & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
-</p>
+### 📚 [YouTube Notes Generator](#)
+> Convert YouTube videos into AI-generated structured notes using transcript parsing and summarization.  
+Tech: `Node.js`, `React`, `OpenAI API`
 
 ---
 
-## 🏆 Achievements
+## 🛠️ Tech Toolbox
 
-- ✅ Solved **500+ problems on LeetCode**, including 200+ Medium difficulty  
-- 🏅 Received **LOR from Uniwave** for outstanding frontend work  
-- 💡 Strong understanding of **DSA**, including Trees, Arrays, and Graphs  
-- 📊 Built real-time dashboards, custom reports, and dynamic forms
+### 🔷 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,c" />
 
----
+### ⚙️ Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,redux,tailwind,bootstrap,flask" />
 
-## 📬 Contact Me
+### 🛢️ Databases & APIs
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,postman" />
 
-<p>
-  <a href="mailto:sahilgupta11543@gmail.com">📧 sahilgupta11543@gmail.com</a><br/>
-  <a href="https://www.linkedin.com/in/sahil-gupta-bb2356283/">🔗 LinkedIn</a><br/>
-  <a href="https://www.github.com/sahilgupta028">💻 GitHub</a><br/>
-  <a href="https://portfolio-sahil028.vercel.app/">🌐 Portfolio</a><br/>
-  <a href="https://leetcode.com/u/sahilgupta5987/">🧠 LeetCode</a>
-</p>
+### 🔧 Tools & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=tokyonight" />
 </p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔵 Redis caching & optimization
+- 🧠 AI integration with web apps
+- 📈 Microservices vs monolith performance trade-offs
+- 📊 Advanced dashboard components with `Chart.js` and `D3.js`
+
+---
+
+## 💬 My Development Philosophy
+
+> 🧼 Clean code is not optional.  
+> 🧠 Scalability > Shortcut.  
+> 🤝 Great products come from collaboration.  
+> 🔄 Always test before you rest.  
+> 🚀 Launch fast, improve faster.
+
+---
+
+## 🧩 I Can Help With:
+
+- MERN stack applications from scratch
+- Dashboard and report automation tools
+- Optimizing frontend performance
+- RESTful API design
+- Basic DevOps (Docker, Git workflows)
+- Building from messy to modular
+
+---
+
+## 🎯 My Goals
+
+- 🌍 Contribute to open-source MERN and Next.js projects
+- 💼 Land a top tech internship by 2026
+- 🚀 Build a SaaS product that automates real-world workflows
+- 📊 Launch a portfolio with blog + dashboard + real-time analytics
+
+---
+
+## 🕹 Fun Facts
+
+- 🎮 Gamer when not coding — especially FIFA & Valorant
+- 🎧 I code better with Lo-Fi beats and a good cup of chai ☕
+- 🧠 DSA lover — I enjoy solving LeetCode questions during breaks
+- 💡 I often get ideas at 2AM and actually build them 😄
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  📧 [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com) <br/>
+  🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/) <br/>
+  💻 [GitHub](https://www.github.com/sahilgupta028) <br/>
+  🌐 [Portfolio](https://portfolio-sahil028.vercel.app/) <br/>
+  🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
+</p>
+
+---
+
+<p align="center"><i>“Build things. Break things. Learn always.”</i></p>
