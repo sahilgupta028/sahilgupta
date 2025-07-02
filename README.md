@@ -43,10 +43,6 @@ Tech: `Next.js`, `Python`, `MongoDB`, `Express`
 > Face-recognition and chatbot-powered attendance tracker with interactive charts and PDF reports.  
 Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 
-### 📚 [YouTube Notes Generator](#)
-> Convert YouTube videos into AI-generated structured notes using transcript parsing and summarization.  
-Tech: `Node.js`, `React`, `OpenAI API`
-
 ---
 
 ## 🛠️ Tech Toolbox
