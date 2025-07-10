@@ -64,7 +64,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=github-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=github" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=github-dark" />
   <br/>
