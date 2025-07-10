@@ -93,11 +93,11 @@
 
 ## 📬 Let's Connect!
 
-- 📧 Email: [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/)  
-- 💻 [GitHub](https://www.github.com/sahilgupta028)  
-- 🌐 [Portfolio](https://portfolio-sahil028.vercel.app/)  
-- 🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
+  📧 [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com) <br />
+  🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/) <br />
+  💻 [GitHub](https://www.github.com/sahilgupta028) <br />
+  🌐 [Portfolio](https://portfolio-sahil028.vercel.app/) <br />
+  🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
 
 ---
 
