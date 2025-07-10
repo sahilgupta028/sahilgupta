@@ -68,7 +68,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=tokyonight" />
   <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgupta028&theme=tokyonight" alt="Sahil's GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgupta028&theme=github-dark" alt="Sahil's GitHub Activity Graph" />
 </p>
 
 ---
