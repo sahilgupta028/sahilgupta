@@ -1,53 +1,53 @@
-<h1 align="center">👋 Hi, I'm Sahil Gupta</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4FC3F7">Sahil Gupta</span></h1>
 
 <p align="center">
   <b>Full-Stack Developer | MERN Stack | AI + Web Enthusiast</b><br/>
-  I build powerful web applications that are functional, fast, and scalable.
+  I craft fast, scalable, and intelligent web applications that solve real-world problems.
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 **B.Tech CSE** @ JSS Academy of Technical Education, Noida (2022–2026)
-- 💡 **Interest Areas:** Full-stack development, AI integration, and system design
-- 📚 **Currently Exploring:** Next.js 14 App Router, Redis, System Design Patterns
-- 👨‍💻 **Experience:** Frontend, Full-stack & Internship experience with real-world projects
-- 🧪 Loves experimenting with performance techniques and clean architecture
+- 🎓 **B.Tech CSE** @ *JSS Academy of Technical Education, Noida* (2022–2026)
+- 💡 **Interests:** Full-Stack Web Dev, AI Integration, System Design
+- 🧪 **Currently Exploring:** Next.js 14 App Router, Redis, System Design Patterns
+- 👨‍💻 **Experience:** Multiple real-world projects & internships in full-stack development
+- ⚙️ Passionate about clean code, performance, and modular architecture
 
 ---
 
 ## 💼 Experience
 
 ### 💻 SDE Intern – Code Inbound LLP *(Mar 2025 – Present)*
-- Built scalable, SEO-optimized applications using **Next.js**
-- Enhanced UX using advanced **state management** and **API integration**
+- Developed SEO-optimized applications using **Next.js**
+- Enhanced user experience via **state management** and **API optimizations**
 
 ### 🎨 Frontend Developer – Uniwave *(Aug – Oct 2024)*
-- Improved performance using **SSR & SSG**
-- Received **LOR** for frontend contribution
+- Implemented **SSR & SSG** for performance improvement
+- Awarded **LOR** for exceptional frontend contributions
 
 ### 🌐 Full Stack Developer – SkilledUp Intelligence *(Apr – May 2024)*
-- Built cross-browser-compatible interfaces with **Next.js** and **Express.js**
-- Improved load time and responsiveness across major browsers
+- Built responsive, cross-browser interfaces with **Next.js + Express.js**
+- Boosted load speeds and responsiveness for all major browsers
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🏥 [Hospital Management System](#)
-> AI-powered hospital interface with NLP-based symptom analysis, real-time doctor matching, and ML disease prediction.  
-Tech: `Next.js`, `Python`, `MongoDB`, `Express`
+> AI-powered interface with NLP symptom analysis, real-time doctor allocation, and ML disease prediction.  
+> **Tech:** `Next.js`, `Python`, `MongoDB`, `Express`
 
 ### 🧾 [Smart Attendance System](#)
-> Face-recognition and chatbot-powered attendance tracker with interactive charts and PDF reports.  
-Tech: `React`, `Python`, `MongoDB`, `Chart.js`
+> Chatbot-enabled, face-recognition attendance tracker with dynamic charts and PDF export.  
+> **Tech:** `React`, `Python`, `MongoDB`, `Chart.js`
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-### 🔷 Languages
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,c" />
 
 ### ⚙️ Frameworks & Libraries
@@ -73,31 +73,31 @@ Tech: `React`, `Python`, `MongoDB`, `Chart.js`
 
 ## 🌱 Currently Learning
 
-- 🔵 Redis caching & optimization
-- 🧠 AI integration with web apps
-- 📈 Microservices vs monolith performance trade-offs
-- 📊 Advanced dashboard components with `Chart.js` and `D3.js`
+- 🔵 Redis caching & performance optimization
+- 🤖 AI + Web integration using Python & JS
+- 🧩 Microservices vs Monolith: Performance & Scalability
+- 📊 Advanced visualization using `Chart.js` and `D3.js`
 
 ---
 
-## 🧩 I Can Help With:
+## 🧩 I Can Help You With
 
-- MERN stack applications from scratch
-- Dashboard and report automation tools
-- Optimizing frontend performance
-- RESTful API design
-- Basic DevOps (Docker, Git workflows)
-- Building from messy to modular
+- Building full-stack MERN apps from scratch
+- Creating dashboards & automated reports
+- Optimizing frontend performance & Core Web Vitals
+- REST API design and integration
+- Git workflows 
+- Refactoring messy codebases into modular architectures
 
 ---
 
-## 📬 Connect With Me
+## 📬 Let's Connect!
 
-  📧 [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com) <br />
-  🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/) <br />
-  💻 [GitHub](https://www.github.com/sahilgupta028) <br />
-  🌐 [Portfolio](https://portfolio-sahil028.vercel.app/) <br />
-  🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
+- 📧 Email: [sahilgupta11543@gmail.com](mailto:sahilgupta11543@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-gupta-bb2356283/)  
+- 💻 [GitHub](https://www.github.com/sahilgupta028)  
+- 🌐 [Portfolio](https://portfolio-sahil028.vercel.app/)  
+- 🧠 [LeetCode](https://leetcode.com/u/sahilgupta5987/)
 
 ---
 
