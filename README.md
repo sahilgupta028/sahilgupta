@@ -64,9 +64,9 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=tokyo-night-dark" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akansha204&theme=react-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=tokyo-night-storm" />
   <br/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgupta028&theme=github-dark" alt="Sahil's GitHub Activity Graph" />
 </p>
