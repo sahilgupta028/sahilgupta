@@ -64,11 +64,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=github" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilgupta028&show_icons=true&theme=tokyonight" />
   <br/>
+
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilgupta028&theme=github-dark" />
   <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgupta028&theme=github-dark" alt="Sahil's GitHub Activity Graph" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilgupta028&layout=compact&theme=tokyonight" />
+  <br/>
+
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilgupta028&theme=github-dark" alt="Sahil's GitHub Activity Graph" />
 </p>
 
 ---
